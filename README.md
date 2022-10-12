@@ -142,6 +142,10 @@ The leaderboard of Unsupervised STS is also available.
 
 ## Related Papers
 ### Main Track of Sentence Embeddings
+```
+Tips:
+- 【Conf】Titile【Alias of the paper, etc.】
+```
 - 【ICLR2023】 RankCSE: Unsupervised Sentence Representations Learning via Learning to Rank 【RankCSE】
 - 【ICLR2023】 Ranking-Enhanced Unsupervised Sentence Representation Learning 【RankEncoder】
 - 【ICLR2023】 Learning to Perturb for Contrastive Learning of Unsupervised Sentence Representations 【L2P-CSR】
