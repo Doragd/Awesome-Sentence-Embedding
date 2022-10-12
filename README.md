@@ -3,7 +3,7 @@ A curated list of research papers in Sentence Reprsentation Learning.
 The leaderboard of Unsupervised STS is also available.
 
 ## Content
-* [Unsupervised STS benchmark](https://github.com/Doragd/Awesome-Sentence-Embedding#Unsupervised-STS-benchmark)
+* [Unsupervised STS leaderboard](https://github.com/Doragd/Awesome-Sentence-Embedding#Unsupervised-STS-leaderboard)
   * [BERT-base](https://github.com/Doragd/Awesome-Sentence-Embedding#BERT-base)
   * [BERT-large](https://github.com/Doragd/Awesome-Sentence-Embedding#BERT-large)
   * [RoBERTa-base](https://github.com/Doragd/Awesome-Sentence-Embedding#RoBERTa-base)
