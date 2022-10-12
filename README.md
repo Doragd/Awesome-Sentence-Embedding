@@ -16,6 +16,9 @@ The leaderboard of Unsupervised STS is also available.
   * [Misc](https://github.com/Doragd/Awesome-Sentence-Embedding#Misc)
 
 ## Unsupervised STS leaderboard
+
+You can search by model name (alias) to find the corresponding paper in the [Related Papers](https://github.com/Doragd/Awesome-Sentence-Embedding#Related-Papers).
+
 ### BERT-base
 |Methods|STS12|STS13|STS14|STS15|STS16|STS-B|SICK-R|avg.|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
