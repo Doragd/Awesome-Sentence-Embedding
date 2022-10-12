@@ -1,6 +1,21 @@
 # Awesome-Sentence-Embedding
+A curated list of research papers in Sentence Reprsentation Learning.
+The leaderboard of Unsupervised STS is also available.
 
-## Unsupervised STS benchmark
+## Content
+* [Unsupervised STS benchmark](https://github.com/Doragd/Awesome-Sentence-Embedding#Unsupervised-STS-benchmark)
+  * [BERT-base](https://github.com/Doragd/Awesome-Sentence-Embedding#BERT-base)
+  * [BERT-large](https://github.com/Doragd/Awesome-Sentence-Embedding#BERT-large)
+  * [RoBERTa-base](https://github.com/Doragd/Awesome-Sentence-Embedding#RoBERTa-base)
+  * [RoBERTa-large](https://github.com/Doragd/Awesome-Sentence-Embedding#RoBERTa-large)
+* [Related Papers](https://github.com/Doragd/Awesome-Sentence-Embedding#Related-Papers)
+  * [Main Track of Sentence Embeddings](https://github.com/Doragd/Awesome-Sentence-Embedding#Main-Track-of-Sentence-Embeddings)
+  * [Others Track of Sentence Embeddings](https://github.com/Doragd/Awesome-Sentence-Embedding#Others-Track-of-Sentence-Embeddings)
+  * [Cross-lingual Sentence Embeddings](https://github.com/Doragd/Awesome-Sentence-Embedding#Cross-lingual-Sentence-Embeddings)
+  * [Cross-lingual Dense Retrieval](https://github.com/Doragd/Awesome-Sentence-Embedding#Cross-lingual-Dense-Retrieval)
+  * [Misc](https://github.com/Doragd/Awesome-Sentence-Embedding#Misc)
+
+## Unsupervised STS leaderboard
 ### BERT-base
 |Methods|STS12|STS13|STS14|STS15|STS16|STS-B|SICK-R|avg.|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
