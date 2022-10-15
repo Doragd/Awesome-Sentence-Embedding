@@ -56,6 +56,7 @@ You can search by model name (alias) to find the corresponding paper in the [Rel
 |ESimCSE|73.4|83.27|77.25|82.66|78.81|80.17|72.3|78.27|
 |DiffCSE|72.28|84.43|76.47|83.9|80.54|80.59|71.23|78.49|
 |PromptBERT|71.56|84.58|76.98|84.47|80.6|81.6|69.87|78.54|
+|InfoCSE|70.53|84.59|76.40|85.10|81.95|82.00|71.37|78.85|
 |SNCSE|70.67|84.79|76.99|83.69|80.51|81.35|74.77|78.97|
 |Prompt+L2P-CSR|72.34|84.81|78.13|84.16|80.58|82.04|71.13|79.03|
 |RankCSE_listNet|74.38|85.97|77.51|84.46|81.31|81.46|75.26|80.05|
@@ -83,6 +84,7 @@ You can search by model name (alias) to find the corresponding paper in the [Rel
 |PromptBERT|73.29|86.39|77.9|85.18|79.97|81.92|71.26|79.42|
 |Prompt+L2P-CSR|73.14|86.78|78.67|85.77|80.32|82.23|72.57|79.93|
 |PCL|74.89|85.88|78.33|85.3|80.13|81.39|73.66|79.94|
+|InfoCSE|71.89|86.17|77.72|86.20|81.29|83.16|74.84|80.18|
 |SNCSE|71.94|86.66|78.84|85.74|80.72|82.29|75.11|80.19|
 |RankCSE_listNet|74.75|86.46|78.52|85.41|80.62|81.4|76.12|80.47|
 |RankCSE_listMLE|75.48|86.5|78.6|85.45|81.09|81.58|75.53|80.6|
@@ -153,6 +155,7 @@ Tips:
 - 【ICLR2023】 Ranking-Enhanced Unsupervised Sentence Representation Learning 【RankEncoder】
 - 【ICLR2023】 Learning to Perturb for Contrastive Learning of Unsupervised Sentence Representations 【L2P-CSR】
 - 【ICLR2023】 miCSE: Mutual Information Contrastive Learning for Low-shot Sentence Embeddings 【miCSE】
+- 【EMNLP2022】InfoCSE: Information-aggregated Contrastive Learning of Sentence Embeddings 【InfoCSE】
 - 【EMNLP2022】 Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning 【PromCSE, Supervised STS】
 - 【COLING2022】 Smoothed contrastive learning for unsupervised sentence embedding 【GS-InfoNCE】
 - 【COLING2022】 ESimCSE: Enhanced Sample Building Method for Contrastive Learning of Unsupervised Sentence Embedding 【ESimCSE】
