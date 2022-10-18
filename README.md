@@ -155,6 +155,7 @@ Tips:
 - 【ICLR2023】 Ranking-Enhanced Unsupervised Sentence Representation Learning 【RankEncoder】
 - 【ICLR2023】 Learning to Perturb for Contrastive Learning of Unsupervised Sentence Representations 【L2P-CSR】
 - 【ICLR2023】 miCSE: Mutual Information Contrastive Learning for Low-shot Sentence Embeddings 【miCSE】
+- 【EMNLP2022】DiffAug: Differential Data Augmentation for Contrastive Sentence Representation Learning 【DiffAug, Semi-supervised, Supervised STS】
 - 【EMNLP2022】InfoCSE: Information-aggregated Contrastive Learning of Sentence Embeddings 【InfoCSE】
 - 【EMNLP2022】 Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning 【PromCSE, Supervised STS】
 - 【COLING2022】 Smoothed contrastive learning for unsupervised sentence embedding 【GS-InfoNCE】
