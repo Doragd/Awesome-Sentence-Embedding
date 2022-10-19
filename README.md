@@ -37,6 +37,7 @@ You can search by model name (alias) to find the corresponding paper in the [Rel
 |SCD|66.94|78.03|69.89|78.73|76.23|76.3|73.18|74.19|
 |SG-OPT|66.84|80.13|71.23|81.56|77.17|77.23|68.16|74.62|
 |Mirror-BERT|69.1|81.1|73|81.9|75.7|78|69.1|75.4|
+|PaSeR|70.21|83.88|73.06|83.87|77.60|79.19|65.31|76.16|
 |SimCSE|68.4|82.41|74.38|80.91|78.56|76.85|72.23|76.25|
 |MCSE+coco|71.2±1.3|79.7±0.9|73.8±0.9|83.0±0.4|77.8±0.9|78.5±0.4|72.1±1.4|76.6±0.5|
 |EASE|72.8|81.8|73.7|82.3|79.5|78.9|69.7|77|
@@ -155,6 +156,7 @@ Tips:
 - 【ICLR2023】 Ranking-Enhanced Unsupervised Sentence Representation Learning 【RankEncoder】
 - 【ICLR2023】 Learning to Perturb for Contrastive Learning of Unsupervised Sentence Representations 【L2P-CSR】
 - 【ICLR2023】 miCSE: Mutual Information Contrastive Learning for Low-shot Sentence Embeddings 【miCSE】
+- 【EMNLP2022】Sentence Representation Learning with Generative Objective rather than Contrastive Objective 【PaSeR, Unsupervised & Supervised STS】 
 - 【EMNLP2022】DiffAug: Differential Data Augmentation for Contrastive Sentence Representation Learning 【DiffAug, Semi-supervised, Supervised STS】
 - 【EMNLP2022】InfoCSE: Information-aggregated Contrastive Learning of Sentence Embeddings 【InfoCSE】
 - 【EMNLP2022】 Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning 【PromCSE, Supervised STS】
