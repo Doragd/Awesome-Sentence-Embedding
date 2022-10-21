@@ -266,6 +266,7 @@ Tips:
 
 - 【ICLR2023】 Modeling Sequential Sentence Relation to Improve Cross-lingual Dense Retrieval
 - 【ICLR2023】 LEXA: Language-agnostic Cross-consistency Training for Question Answering Tasks
+- 【EMNLP2022】Retrofitting Multilingual Sentence Embeddings with Abstract Meaning Representation
 - 【IJCAI2022】 Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval
 - 【NAACL2022】 EASE: Entity-Aware Contrastive Learning of Sentence Embedding
 - 【EMNLP2021】 A Simple and Effective Method To Eliminate the Self Language Bias in Multilingual Representations
