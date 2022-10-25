@@ -152,7 +152,7 @@ You can search by model name (alias) to find the corresponding paper in the [Rel
 Tips:
 - 【Conf】Titile【Alias of the paper, etc.】
 ```
-- 【ICLR2023】 RankCSE: Unsupervised Sentence Representations Learning via Learning to Rank 【RankCSE】[link](https://openreview.net/pdf?id=y_sZyxuuFh3)
+- 【ICLR2023】 RankCSE: Unsupervised Sentence Representations Learning via Learning to Rank 【RankCSE】[paper](https://openreview.net/pdf?id=y_sZyxuuFh3)
 - 【ICLR2023】 Ranking-Enhanced Unsupervised Sentence Representation Learning 【RankEncoder】
 - 【ICLR2023】 Learning to Perturb for Contrastive Learning of Unsupervised Sentence Representations 【L2P-CSR】
 - 【ICLR2023】 miCSE: Mutual Information Contrastive Learning for Low-shot Sentence Embeddings 【miCSE】
