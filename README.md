@@ -240,7 +240,9 @@ Tips:
 - 【ACL2019】 Exploiting Invertible Decoders for Unsupervised Sentence Representation Learning
 
 ### Cross-lingual Sentence Embeddings
-
+- 【EMNLP2022】A Multilingual Generative Transformer for Semantic Sentence Embedding
+- 【EMNLP2022】English Contrastive Learning Can Learn Universal Cross-lingual Sentence Embeddings 【mSimCSE】
+- 【EMNLP2022】A Multilingual Generative Transformer for Semantic Sentence Embedding
 - 【ACL2022】 Language-agnostic BERT Sentence Embedding
 - 【IJCAI2022】 Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval
 - 【Arxiv2021】 Paraphrastic Representations at Scale
@@ -267,7 +269,6 @@ Tips:
 
 - 【ICLR2023】 Modeling Sequential Sentence Relation to Improve Cross-lingual Dense Retrieval
 - 【ICLR2023】 LEXA: Language-agnostic Cross-consistency Training for Question Answering Tasks
-- 【EMNLP2022】A Multilingual Generative Transformer for Semantic Sentence Embedding
 - 【EMNLP2022】Retrofitting Multilingual Sentence Embeddings with Abstract Meaning Representation
 - 【IJCAI2022】 Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval
 - 【NAACL2022】 EASE: Entity-Aware Contrastive Learning of Sentence Embedding
