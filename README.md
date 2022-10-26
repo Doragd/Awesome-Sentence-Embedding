@@ -156,10 +156,12 @@ Tips:
 - 【ICLR2023】 Ranking-Enhanced Unsupervised Sentence Representation Learning 【RankEncoder】[paper](https://openreview.net/pdf?id=g77JafrHWyy)
 - 【ICLR2023】 Learning to Perturb for Contrastive Learning of Unsupervised Sentence Representations 【L2P-CSR】
 - 【ICLR2023】 miCSE: Mutual Information Contrastive Learning for Low-shot Sentence Embeddings 【miCSE】
+- 【EMNLP2022】Contrastive Learning with Prompt-derived Virtual Semantic Prototypes for Unsupervised Sentence Embedding
 - 【EMNLP2022】Sentence Representation Learning with Generative Objective rather than Contrastive Objective 【PaSeR, Unsupervised & Supervised STS】 
 - 【EMNLP2022】DiffAug: Differential Data Augmentation for Contrastive Sentence Representation Learning 【DiffAug, Semi-supervised, Supervised STS】
 - 【EMNLP2022】InfoCSE: Information-aggregated Contrastive Learning of Sentence Embeddings 【InfoCSE】
 - 【EMNLP2022】 Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning 【PromCSE, Supervised STS】
+- 【EMNLP2022】 PromptBERT: Improving BERT Sentence Embeddings with Prompts 【PromptBERT】
 - 【COLING2022】 Smoothed contrastive learning for unsupervised sentence embedding 【GS-InfoNCE】
 - 【COLING2022】 ESimCSE: Enhanced Sample Building Method for Contrastive Learning of Unsupervised Sentence Embedding 【ESimCSE】
 - 【COLING2022】 An information minimization contrastive learning model for unsupervised sentence embeddings learning 【InforMin-CL】
@@ -177,7 +179,6 @@ Tips:
 - 【NAACL2022】 EASE: Entity-Aware Contrastive Learning of Sentence Embedding 【EASE】
 - 【NAACL2022】 MCSE: Multimodal Contrastive Learning of Sentence Embeddings 【MCSE, more data】
 - 【ICML2022ws】 Boosting Monolingual Sentence Representation with Large-scale Parallel Translation Datasets 【BMSR, Supervised STS, more data】
-- 【Arxiv2022】 PromptBERT: Improving BERT Sentence Embeddings with Prompts 【PromptBERT】
 - 【Arxiv2022】 SNCSE: Contrastive Learning for Unsupervised Sentence Embedding with Soft Negative Samples 【SNCSE】
 - 【Arxiv2022】 PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings 【PCL】
 - 【ICLR2021】 Trans-encoder: Unsupervised sentence-pair modelling through self-and mutual-distillations 【TENC, use unlabeled STS data】
