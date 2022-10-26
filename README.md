@@ -154,7 +154,7 @@ Tips:
 ```
 - 【ICLR2023】 RankCSE: Unsupervised Sentence Representations Learning via Learning to Rank 【RankCSE】[paper](https://openreview.net/pdf?id=y_sZyxuuFh3)
 - 【ICLR2023】 Ranking-Enhanced Unsupervised Sentence Representation Learning 【RankEncoder】[paper](https://openreview.net/pdf?id=g77JafrHWyy)
-- 【ICLR2023】 Learning to Perturb for Contrastive Learning of Unsupervised Sentence Representations 【L2P-CSR】
+- 【ICLR2023】 Learning to Perturb for Contrastive Learning of Unsupervised Sentence Representations 【L2P-CSR】[paper](https://openreview.net/pdf?id=gZYbGIpFYpA)
 - 【ICLR2023】 miCSE: Mutual Information Contrastive Learning for Low-shot Sentence Embeddings 【miCSE】
 - 【EMNLP2022】ConGen: Unsupervised Control and Generalization Distillation For Sentence Representation
 - 【EMNLP2022】Generate, Discriminate and Contrast: A Semi-Supervised Sentence Representation Learning Framework
