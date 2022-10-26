@@ -156,6 +156,9 @@ Tips:
 - 【ICLR2023】 Ranking-Enhanced Unsupervised Sentence Representation Learning 【RankEncoder】[paper](https://openreview.net/pdf?id=g77JafrHWyy)
 - 【ICLR2023】 Learning to Perturb for Contrastive Learning of Unsupervised Sentence Representations 【L2P-CSR】
 - 【ICLR2023】 miCSE: Mutual Information Contrastive Learning for Low-shot Sentence Embeddings 【miCSE】
+- 【EMNLP2022】ConGen: Unsupervised Control and Generalization Distillation For Sentence Representation
+- 【EMNLP2022】Generate, Discriminate and Contrast: A Semi-Supervised Sentence Representation Learning Framework
+- 【EMNLP2022】 PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings 【PCL】
 - 【EMNLP2022】Contrastive Learning with Prompt-derived Virtual Semantic Prototypes for Unsupervised Sentence Embedding 【PromptCSE】
 - 【EMNLP2022】Sentence Representation Learning with Generative Objective rather than Contrastive Objective 【PaSeR, Unsupervised & Supervised STS】 
 - 【EMNLP2022】DiffAug: Differential Data Augmentation for Contrastive Sentence Representation Learning 【DiffAug, Semi-supervised, Supervised STS】
@@ -180,7 +183,6 @@ Tips:
 - 【NAACL2022】 MCSE: Multimodal Contrastive Learning of Sentence Embeddings 【MCSE, more data】
 - 【ICML2022ws】 Boosting Monolingual Sentence Representation with Large-scale Parallel Translation Datasets 【BMSR, Supervised STS, more data】
 - 【Arxiv2022】 SNCSE: Contrastive Learning for Unsupervised Sentence Embedding with Soft Negative Samples 【SNCSE】
-- 【Arxiv2022】 PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings 【PCL】
 - 【ICLR2021】 Trans-encoder: Unsupervised sentence-pair modelling through self-and mutual-distillations 【TENC, use unlabeled STS data】
 - 【ICLR2021】 Semantic re-tuning with contrastive tension 【CT-BERT】
 - 【Arxiv2021】 Whitening sentence representations for better semantics and faster retrieval 【BERT-whitening】
