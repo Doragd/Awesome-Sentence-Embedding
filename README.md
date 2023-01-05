@@ -244,7 +244,6 @@ Tips:
 ### Cross-lingual Sentence Embeddings
 - 【EMNLP2022】A Multilingual Generative Transformer for Semantic Sentence Embedding
 - 【EMNLP2022】English Contrastive Learning Can Learn Universal Cross-lingual Sentence Embeddings 【mSimCSE】
-- 【EMNLP2022】A Multilingual Generative Transformer for Semantic Sentence Embedding
 - 【ACL2022】 Language-agnostic BERT Sentence Embedding
 - 【IJCAI2022】 Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval
 - 【Arxiv2021】 Paraphrastic Representations at Scale
