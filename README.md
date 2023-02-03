@@ -152,10 +152,11 @@ You can search by model name (alias) to find the corresponding paper in the [Rel
 Tips:
 - 【Conf】Titile【Alias of the paper, etc.】
 ```
-- 【ICLR2023】 RankCSE: Unsupervised Sentence Representations Learning via Learning to Rank 【RankCSE】[paper](https://openreview.net/pdf?id=y_sZyxuuFh3)
-- 【ICLR2023】 Ranking-Enhanced Unsupervised Sentence Representation Learning 【RankEncoder】[paper](https://openreview.net/pdf?id=g77JafrHWyy)
-- 【ICLR2023】 Learning to Perturb for Contrastive Learning of Unsupervised Sentence Representations 【L2P-CSR】[paper](https://openreview.net/pdf?id=gZYbGIpFYpA)
-- 【ICLR2023】 miCSE: Mutual Information Contrastive Learning for Low-shot Sentence Embeddings 【miCSE】
+- 【ICLR2023 withdrawn】 RankCSE: Unsupervised Sentence Representations Learning via Learning to Rank 【RankCSE】[paper](https://openreview.net/pdf?id=y_sZyxuuFh3)
+- 【ICLR2023 withdrawn】 Ranking-Enhanced Unsupervised Sentence Representation Learning 【RankEncoder】[paper](https://openreview.net/pdf?id=g77JafrHWyy)
+- 【ICLR2023 withdrawn】 Learning to Perturb for Contrastive Learning of Unsupervised Sentence Representations 【L2P-CSR】[paper](https://openreview.net/pdf?id=gZYbGIpFYpA)
+- 【ICLR2023 withdrawn】 miCSE: Mutual Information Contrastive Learning for Low-shot Sentence Embeddings 【miCSE】
+- 【ICLR2023】On The Inadequacy of Optimizing Alignment and Uniformity in Contrastive Learning of Sentence Representations
 - 【EMNLP2022】ConGen: Unsupervised Control and Generalization Distillation For Sentence Representation
 - 【EMNLP2022】Generate, Discriminate and Contrast: A Semi-Supervised Sentence Representation Learning Framework
 - 【EMNLP2022】 PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings 【PCL】
