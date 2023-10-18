@@ -8,6 +8,7 @@ The leaderboard of Unsupervised STS is also available.
   * [BERT-large](https://github.com/Doragd/Awesome-Sentence-Embedding#bert-large)
   * [RoBERTa-base](https://github.com/Doragd/Awesome-Sentence-Embedding#roberta-base)
   * [RoBERTa-large](https://github.com/Doragd/Awesome-Sentence-Embedding#roberta-large)
+* [Supervised STS leaderboard](https://github.com/Doragd/Awesome-Sentence-Embedding#supervised-sts-leaderboard)
 * [Related Papers](https://github.com/Doragd/Awesome-Sentence-Embedding#related-Papers)
   * [Main Track of Sentence Embeddings](https://github.com/Doragd/Awesome-Sentence-Embedding#main-track-of-sentence-embeddings)
   * [Others Track of Sentence Embeddings](https://github.com/Doragd/Awesome-Sentence-Embedding#others-track-of-sentence-embeddings)
@@ -146,6 +147,13 @@ You can search by model name (alias) to find the corresponding paper in the [Rel
 |CARDS|74.63|86.27|79.25|85.93|83.17|83.86|72.77|80.84|
 |SNCSE|73.71|86.73|80.35|86.8|83.06|84.31|77.43|81.77|
 
+
+## Supervised STS leaderboard
+### LLaMA
+|Methods|STS12|STS13|STS14|STS15|STS16|STS-B|SICK-R|avg.|
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|AnglE-LLaMA-7B|78.68|90.58|85.49|89.56|86.91|88.92|81.18|85.90|
+
 ## Related Papers
 ### Main Track of Sentence Embeddings
 ```
@@ -283,3 +291,4 @@ Tips:
 - 【ICLR2023】 Self-Consistent Learning: Cooperation between Generators and Discriminators
 - 【TMLR2022】 Unsupervised dense information retrieval with contrastive learning
 - 【NAACL2021】 Supporting Clustering with Contrastive Learning
+- 【Preprint】 AnglE: Angle-optimized Text Embeddings
