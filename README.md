@@ -152,6 +152,7 @@ You can search by model name (alias) to find the corresponding paper in the [Rel
 ### LLaMA
 |Methods|STS12|STS13|STS14|STS15|STS16|STS-B|SICK-R|avg.|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|SimCSE-LLaMA-7B|78.39|89.95|84.80|88.50|86.04|87.86|81.11|85.24|
 |AnglE-LLaMA-7B|78.68|90.58|85.49|89.56|86.91|88.92|81.18|85.90|
 
 ## Related Papers
