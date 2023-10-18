@@ -292,4 +292,4 @@ Tips:
 - 【ICLR2023】 Self-Consistent Learning: Cooperation between Generators and Discriminators
 - 【TMLR2022】 Unsupervised dense information retrieval with contrastive learning
 - 【NAACL2021】 Supporting Clustering with Contrastive Learning
-- 【Preprint】 AnglE: Angle-optimized Text Embeddings
+- 【Preprint】 [AnglE: Angle-optimized Text Embeddings](https://arxiv.org/abs/2309.12871)
